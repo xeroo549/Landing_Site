@@ -39,3 +39,26 @@
     border-color: #555 ;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35) ;
 }
+
+#car-catalog {
+    width: 100%;
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+.carousel-caption h5 {
+    font-size: 3rem;
+    font-weight: 700;
+    color: white;
+}
+
+.download-btn {
+    background: linear-gradient(180deg,#1b2838 0%,#171a21 100%);
+    border: none;
+    padding: 15px 35px;
+    border-radius: 20px;
+}
+
+.download-text {
+    padding-top: 150px !important;
+}
