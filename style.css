@@ -62,3 +62,10 @@
 .download-text {
     padding-top: 150px !important;
 }
+
+.accordion {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px;
+}
