@@ -47,11 +47,17 @@
 }
 
 .carousel-caption h5 {
-    font-size: 3rem;
+    font-size: 28px;
     font-weight: 700;
     color: white;
 }
 
+.carousel-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    padding-top: 20px;
+    user-select: none;
+}
 .download-btn {
     background: linear-gradient(180deg,#1b2838 0%,#171a21 100%);
     border: none;
@@ -68,4 +74,9 @@
     max-width: 900px;
     margin: 0 auto;
     padding: 40px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
 }
